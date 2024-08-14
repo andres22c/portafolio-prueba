@@ -6,3 +6,5 @@ Para ejecutar el sistema, debes poner:
 
 
 npm install rect
+
+actualizar sistema de registros
